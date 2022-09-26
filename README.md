@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alessandro.dodi@webion.it**
 
-- 📄 Have a look at my re [https://mega.nz/file/bhc22KxD#TmUT0EVbhD-nQ_kymgL5tQI_PdlLnGkuogIHwO3rHz0](https://mega.nz/file/bhc22KxD#TmUT0EVbhD-nQ_kymgL5tQI_PdlLnGkuogIHwO3rHz0)
+- 📄 Have a look at my curriculum  [https://mega.nz/file/bhc22KxD#TmUT0EVbhD-nQ_kymgL5tQI_PdlLnGkuogIHwO3rHz0](https://mega.nz/file/bhc22KxD#TmUT0EVbhD-nQ_kymgL5tQI_PdlLnGkuogIHwO3rHz0)
 
 - 👨‍💻 **In February I co-founded with two university colleagues Webion SRL,a custom software development company located in Modena, Italy**
 
