@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrododi&label=Profile%20views&color=0e75b6&style=flat" alt="alessandrododi" /> </p>
 
+- 👨‍💻 **In February I co-founded with two university colleagues Webion SRL,a custom software development company located in Modena, Italy**
+
 - 🌱 I’m currently learning several things such as **Design, UI, UX, React and Angular**
 
 - 👨‍💻 All of my projects are available at my company's website [https://webion.it/](https://webion.it/)
@@ -15,7 +17,6 @@
 
 - 📄 Have a look at my curriculum  [here](https://mega.nz/file/bhc22KxD#TmUT0EVbhD-nQ_kymgL5tQI_PdlLnGkuogIHwO3rHz0)
 
-- 👨‍💻 **In February I co-founded with two university colleagues Webion SRL,a custom software development company located in Modena, Italy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
