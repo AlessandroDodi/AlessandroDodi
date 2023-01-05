@@ -5,7 +5,7 @@
 
 - 👨‍💻 **In February I co-founded with two university colleagues Webion SRL,a custom software development company located in Modena, Italy**
 
-- 🌱 I’m currently learning several things such as **Design, UI, UX, React and Angular**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 Some of my projects are available at my company's website [https://webion.it/](https://webion.it/)
 
