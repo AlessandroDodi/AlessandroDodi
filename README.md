@@ -5,7 +5,7 @@
 
 - 👨‍💻 **In February I co-founded with two university colleagues Webion SRL,a custom software development company located in Modena, Italy**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**, following the course **Flutter & Dart - The Complete Guide [2023 Edition]**
 
 - 👨‍💻 Some of my projects are available at my company's website [https://webion.it/](https://webion.it/)
 
