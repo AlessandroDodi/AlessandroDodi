@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">A passionate software developer and designer from Italy and co-founder of Webion SRL</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrododi&label=Profile%20views&color=0e75b6&style=flat" alt="alessandrododi" /> </p>
-- 👨‍💻 **In February I co-founded with two university colleagues Webion SRL,a custom software development company located in Modena, Italy**
-- 🌱 I’m currently learning **Flutter**, following the course **Flutter & Dart - The Complete Guide [2023 Edition]**
-- 👨‍💻 Some of my projects are available at my company's website [https://webion.it/](https://webion.it/)
-- 📝 I regularly write articles on my company's linkedIn Page [https://it.linkedin.com/company/webion-srl](https://it.linkedin.com/company/webion-srl)
-- 👯 I’m looking to collaborate on **any interesting project regarding the technologies I currently use but also the one I don't know yet.**
-- 📫 How to reach me **alessandro.dodi@webion.it**
-- 📄 Have a look at my curriculum  [here](https://mega.nz/file/bhc22KxD#TmUT0EVbhD-nQ_kymgL5tQI_PdlLnGkuogIHwO3rHz0)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/alessandro-dodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-dodi" height="30" width="40" /></a>
-	</p>
+
+- 👨‍💻  In February I co-founded with two university colleagues Webion SRL,a custom software development company located in Modena, Italy <br>
+
+- 🌱 I’m currently learning Flutter following the course Flutter & Dart - The Complete Guide <br>
+
+- 👨‍💻 Some of my projects are available at my company's website [https://webion.it/](https://webion.it/) <br>
+
+- 📫 How to reach me **alessandro.dodi@webion.it** or <a href="https://linkedin.com/in/alessandro-dodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-dodi" height="30" width="40" /></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
