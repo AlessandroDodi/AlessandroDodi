@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">A passionate software developer and designer from Italy and co-founder of Webion SRL</h3>
+<h3 align="center">A passionate software developer from Italy and co-founder of Webion SRL</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrododi&label=Profile%20views&color=0e75b6&style=flat" alt="alessandrododi" /> </p>
 
 - 👨‍💻  In February I co-founded with two university colleagues Webion SRL,a custom software development company located in Modena, Italy <br>
