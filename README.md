@@ -4,7 +4,7 @@
 
 - 👨‍💻  In February I co-founded with two university colleagues Webion SRL,a custom software development company located in Modena, Italy <br>
 
-- 🌱 I’m currently learning Flutter following the course Flutter & Dart - The Complete Guide <br>
+- 🌱 I’m currently learning Flutter and Firebase coding Goly, am app for setting, managing and sharing goals <br>
 
 - 👨‍💻 Some of my projects are available at my company's website [https://webion.it/](https://webion.it/) <br>
 
