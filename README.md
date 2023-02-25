@@ -16,7 +16,10 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
 	<img src="https://www.svgrepo.com/show/373604/flutter.svg" alt="flutter" width="40" height="40"/>
 </a>
-
+	
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+	<img src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" alt="firebase" width="40" height="40"/>
+</a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>	
