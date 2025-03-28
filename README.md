@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">A passionate software developer from Italy and co-founder of Webion SRL</h3>
+<h3 align="center">A passionate software developer from Italy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrododi&label=Profile%20views&color=0e75b6&style=flat" alt="alessandrododi" /> </p>
 
-- 👨‍💻  In February I co-founded with two university colleagues Webion SRL,a custom software development company located in Modena, Italy <br>
-
-- 🌱 I’m currently learning Flutter and Firebase coding Goly, an app for setting, managing and sharing goals <br>
-
-- 👨‍💻 Some of my projects are available at my company's website [https://webion.it/](https://webion.it/) <br>
+As the co-founder of Webion, a custom software development company, and an honored graduate of Unimore's Computer Science program, I have a passion for solving complex problems through technology. With a strong foundation in computer science and a drive to constantly learn and improve, I am dedicated to delivering high-quality solutions for my clients.
 
 - 📫 How to reach me **alessandro.dodi@webion.it** or <a href="https://linkedin.com/in/alessandro-dodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-dodi" height="30" width="40" /></a>
 
