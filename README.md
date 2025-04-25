@@ -4,7 +4,7 @@
 
 As the co-founder of Webion, a custom software development company, and an honored graduate of Unimore's Computer Science program, I have a passion for solving complex problems through technology. With a strong foundation in computer science and a drive to constantly learn and improve, I am dedicated to delivering high-quality solutions for my clients.
 
-- 📫 How to reach me **dodialessandro3@webion.com** or <a href="https://linkedin.com/in/alessandro-dodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-dodi" height="30" width="40" /></a>
+- 📫 How to reach me **dodialessandro3@gmail.com** or <a href="https://linkedin.com/in/alessandro-dodi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro-dodi" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
