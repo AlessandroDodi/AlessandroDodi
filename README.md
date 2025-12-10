@@ -11,7 +11,7 @@
   Software developer with 5+ years of experience and an entrepreneurial background.
   Skilled in designing and delivering web and mobile applications using modern stacks
   such as React, Next.js, Flutter and .NET. As co-founder at Webion, I’ve led the
-  end-to-end delivery of 40+ projects across industries—from logistics and
+  end-to-end delivery of 50+ projects across industries—from logistics and
   manufacturing to SaaS and Industry 4.0.
 </p>
 
