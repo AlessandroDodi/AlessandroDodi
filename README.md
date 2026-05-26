@@ -1,4 +1,3 @@
-<h1 align="center">Alessandro Dodi</h1>
 <h3 align="center">
   Full-stack developer, designer, and Georgia Tech M.S. CS candidate
 </h3>
