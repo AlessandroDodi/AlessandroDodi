@@ -1,36 +1,60 @@
-<h1 align="center">Hi 👋, I'm Alessandro</h1>
-<h3 align="center">A passionate software developer from Italy</h3>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=alessandrododi&label=Profile%20views&color=0e75b6&style=flat"
-    alt="alessandrododi"
-  />
-</p>
+<h1 align="center">Alessandro Dodi</h1>
+<h3 align="center">
+  Full-stack developer, designer, and Georgia Tech M.S. CS candidate
+</h3>
 
-<p>
-  Software developer with 5+ years of experience and an entrepreneurial background.
-  Skilled in designing and delivering web and mobile applications using modern stacks
-  such as React, Next.js, Flutter and .NET. As co-founder at Webion, I’ve led the
-  end-to-end delivery of 50+ projects across industries—from logistics and
-  manufacturing to SaaS and Industry 4.0.
-</p>
-
-<p>
-  I earned my B.Sc. in Computer Science (110/110 cum laude) from the University of
-  Modena in just 2.5 years, securing four merit-based scholarships while running a
-  tech startup. I’m passionate about product-focused development, UI/UX design and
-  exploring emerging technologies—always striving to write clean, performant code and
-  solve real-world problems.
-</p>
-
-- 📫 How to reach me **dodialessandro3@gmail.com** or
-  <a href="https://linkedin.com/in/alessandro-dodi" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="alessandro-dodi"
-      height="15"
-      width="20"
-    />
+<p align="center">
+  <a href="https://adodi.dev" target="_blank" rel="noreferrer">
+    <strong>Explore my portfolio → adodi.dev</strong>
   </a>
+</p>
 
+
+<p>
+  Full-stack developer and designer with <strong>6+ years of experience</strong>
+  building web, mobile, and SaaS products. I co-founded and exited
+  <strong>Webion</strong>, where I led the delivery of <strong>50+ applications</strong>
+  across SaaS, logistics, manufacturing, public administration, and Industry 4.0.
+</p>
+
+<ul>
+  <li>
+    Grew Webion from <strong>€60K to €500K in annual revenue</strong> in 3 years.
+  </li>
+  <li>
+    Built and scaled multiple SaaS products, including
+    <a href="https://qubisoftware.com" target="_blank" rel="noreferrer">Qubi</a>,
+    used by <strong>100+ paying B2B customers</strong>.
+  </li>
+  <li>
+    Created tools such as
+    <a href="https://rankpu.sh" target="_blank" rel="noreferrer">Rankpush</a>,
+    <a href="https://eventory.ai/" target="_blank" rel="noreferrer">Eventory</a>,
+    <a href="https://sneakerdev.com/" target="_blank" rel="noreferrer">SneakerDev</a>,
+    and <a href="https://getmapora.com/" target="_blank" rel="noreferrer">Mapora</a>.
+  </li>
+  <li>
+    Won international hackathons and an <strong>Adobe design grant</strong>.
+  </li>
+  <li>
+    Currently pursuing an <strong>M.S. in Computer Science at Georgia Tech</strong>,
+    specializing in <strong>Machine Learning</strong>.
+  </li>
+</ul>
+
+<p>
+  I work mainly with <strong>Next.js</strong>, <strong>React</strong>,
+  <strong>Convex</strong>, <strong>WorkOS</strong>, <strong>Node.js</strong>,
+  <strong>PostgreSQL</strong>, <strong>Supabase</strong>, and AI tooling, with a
+  focus on clean execution, product thinking, performance, and thoughtful UX.
+</p>
+
+<p align="center">
+  <a href="mailto:dodialessandro3@gmail.com">
+    Email
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/alessandro-dodi" target="_blank" rel="noreferrer">
+    LinkedIn
+  </a>
+</p>
