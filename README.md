@@ -26,7 +26,7 @@
     used by <strong>100+ paying B2B customers</strong>.
   </li>
   <li>
-    Created tools such as
+    Worked on several tools including
     <a href="https://rankpu.sh" target="_blank" rel="noreferrer">Rankpush</a>,
     <a href="https://eventory.ai/" target="_blank" rel="noreferrer">Eventory</a>,
     <a href="https://sneakerdev.com/" target="_blank" rel="noreferrer">SneakerDev</a>,
